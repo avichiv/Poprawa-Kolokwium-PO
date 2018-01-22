@@ -1,0 +1,5 @@
+c:\users\local\documents\visual studio 2013\Projects\141505\141505\obj\Debug\141505.csprojResolveAssemblyReference.cache
+c:\users\local\documents\visual studio 2013\Projects\141505\141505\bin\Debug\141505.exe
+c:\users\local\documents\visual studio 2013\Projects\141505\141505\bin\Debug\141505.pdb
+c:\users\local\documents\visual studio 2013\Projects\141505\141505\obj\Debug\141505.exe
+c:\users\local\documents\visual studio 2013\Projects\141505\141505\obj\Debug\141505.pdb
